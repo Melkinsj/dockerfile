@@ -1,4 +1,4 @@
-FROM openjdk: latest
+FROM openjdk:latest
 LABEL maintainer="melkin sj ‹melkin.mel@gmail.com›"
 EXPOSE 8080
 COPY SRTechOps. jar /usr/src/myapp/
